@@ -1,0 +1,4 @@
+@id=1861a95c-f61f-44e7-8eda-f1e75dab119f
+
+
+DELETE https://localhost:7291/meals/{{id}}

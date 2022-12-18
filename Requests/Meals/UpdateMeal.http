@@ -1,0 +1,17 @@
+
+@id=1861a95c-f61f-44e7-8eda-f1e75dab119f
+
+PUT https://localhost:7291/Meals/{{id}}
+Content-Type: application/json
+
+{
+  "name": "Keto Egg Noodles sssss",
+  "description": "This keto pasta noodles recipe has just 2.7g net carbs and 3 ingredients!",
+  "ingredients": [
+    "2 cups Mozzarella Cheese",
+    "4 large Egg Yolks",
+    "1/2cup Lupin Flour"
+  ],
+  "calories": 248.7,
+  "net_carbs": -2.7
+}
